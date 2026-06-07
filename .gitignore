@@ -1,0 +1,28 @@
+# local editor settings
+.vscode/
+
+# dependencies
+kapi-cafe/node_modules/
+kapi-cafe/.pnp
+kapi-cafe/.pnp.*
+
+# next.js build output
+kapi-cafe/.next/
+kapi-cafe/out/
+
+# production/build
+kapi-cafe/build/
+
+# misc / OS files
+.DS_Store
+*.pem
+Thumbs.db
+
+# debug logs
+kapi-cafe/npm-debug.log*
+kapi-cafe/yarn-debug.log*
+kapi-cafe/yarn-error.log*
+kapi-cafe/.pnpm-debug.log*
+
+# environment variables
+kapi-cafe/.env*
